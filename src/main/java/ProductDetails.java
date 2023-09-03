@@ -13,6 +13,12 @@ import javax.servlet.http.HttpSession;
 
 import com.ecommerce.EProductEntity;
 
+//import jakarta.servlet.ServletException;
+//import jakarta.servlet.http.HttpServlet;
+//import jakarta.servlet.http.HttpServletRequest;
+//import jakarta.servlet.http.HttpServletResponse;
+//import jakarta.servlet.http.HttpSession;
+
 /**
  * Servlet implementation class ProductDetails
  */
