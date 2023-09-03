@@ -9,7 +9,7 @@
 <body>
 
 	<h1>Enter New Product Details</h1>
-	<form action="NewProduct" method="post">
+	<form action="ProductDetails" method="post">
 		Enter Product Name:&nbsp; <input type="text" name="pName"><br><br>
 		Enter Product Price:&nbsp; <input type="text" name="price"><br><br>
 		Enter Product HDD:&nbsp; <input type="text" name="hdd"><br><br>
